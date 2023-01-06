@@ -1,0 +1,51 @@
+#footer {
+  background-color: #c3f8ff;
+  height: fit-content;
+  font-size: smaller;
+}
+
+.head {
+  border-bottom: 0.5px solid gray;
+  width: fit-content;
+  margin-top: 0.5rem;
+}
+
+#imgOnes {
+  margin-left: 2.5rem;
+}
+
+#imgTwo {
+  margin-left: 1rem;
+}
+
+#imgThree {
+  margin-left: 1.5rem;
+}
+
+#imgFour {
+  margin-left: 2rem;
+}
+
+#imgFive {
+  margin-left: 2rem;
+}
+
+#twitterLogo {
+  margin-left: -3rem;
+}
+
+#instagramLogo {
+  margin-left: -6rem;
+}
+
+#instagramLogo {
+  margin-left: -6rem;
+}
+
+#youtubeLogo {
+  margin-left: -9rem;
+}
+
+#copyright {
+  font-size: x-small;
+}

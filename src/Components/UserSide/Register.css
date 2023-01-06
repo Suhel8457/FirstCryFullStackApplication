@@ -1,0 +1,37 @@
+.registerUser {
+  margin-left: 32rem;
+  margin-top: 5rem;
+  z-index: 34;
+  width: fit-content;
+}
+#imageLogo {
+  margin-left: 4rem;
+  margin-top: -3rem;
+  margin-bottom: 1rem;
+  width: 10rem;
+}
+#rcontinue {
+  margin-top: 2rem;
+  margin-left: -1.5rem;
+  background-color: #fd7924;
+  color: aliceblue;
+  width: 20rem;
+}
+#regText {
+  margin-top: 1rem;
+  font-weight: bold;
+  cursor: default;
+}
+#fullName,
+#mobile,
+#emailId,
+#password {
+  margin-top: 1.5rem;
+  width: 17rem;
+}
+
+.format {
+  font-size: x-small;
+  color: gray;
+  cursor: default;
+}

@@ -1,0 +1,109 @@
+#check {
+  background-color: #373737;
+  color: whitesmoke;
+  width: 100%;
+  height: max-content;
+  padding-top: 0.5rem;
+  text-align: center;
+  cursor: default;
+}
+
+/* .lactive {
+  cursor: default;
+  border-bottom: 2px solid orange;
+  height: 2rem;
+  align-content: center;
+} */
+.filter {
+  width: 60rem;
+  background-color: #575757;
+  text-align: center;
+  height: fit-content;
+  padding-top: 0.7rem;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+#imagesList {
+  background-color: #373737;
+}
+#image {
+  width: 16rem;
+  margin-top: 2rem;
+  padding: 1rem;
+  height: 25rem;
+  cursor: default;
+}
+#image.card:hover{
+  transform:scale(1.0022);
+  z-index:0.6;
+
+}
+
+.images {
+  background-color: #373737;
+  height: 80rem;
+}
+.addtocart {
+  margin-top: 1rem;
+  background-color: #fd7924;
+  color: aliceblue;
+  font-size: x-small;
+  margin-left: -1rem;
+  width: 5rem;
+}
+#shortlist {
+  margin-top: -3.5rem;
+  padding-top: 0;
+  background-color: none;
+  color: green;
+  font-size: smaller;
+  margin-left: 6rem;
+  width: 5rem;
+}
+
+#listsort {
+  width: 6rem;
+  background-color: #575757;
+  border: none;
+  margin-left: 70rem;
+}
+#dispImage {
+  width: 10rem;
+  margin-left: 1.5rem;
+  height: 12rem;
+}
+
+#priceFilter {
+  display: none;
+}
+.filtar::-webkit-scrollbar {
+  width: 7px;
+  
+}
+.filtar::-webkit-scrollbar-track {
+  background-color:#f1f1f1;
+  
+}
+.filtar::-webkit-scrollbar-thumb {
+  background-color:gray;
+  height: auto;
+  border-radius:3px;
+}
+.filtar::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+#cat{
+    margin-top: 10rem;
+    border:1px solid black;
+    width:12rem;
+    height:8rem;
+    overflow: auto;
+    cursor: pointer;
+    
+}
+.form-check-input{
+    cursor: pointer;
+}
+
+
